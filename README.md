@@ -10,16 +10,10 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anthony667-ar&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## 🏆 GitHub Trofeu
-![](https://github-profile-trophy.vercel.app/?username=Aneal07&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aneal07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+![](https://github-profile-trophy.vercel.app/?username=Anthony667-ar&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 
 Last Edited on: 18/11/2023
